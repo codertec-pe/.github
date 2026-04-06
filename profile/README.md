@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/CODERTEC" target="_blank">
-    <img src="https://codertec.pe/img/logo-circular.jpg" alt="CODERTEC Logo" width="160" align="left" style="margin-right: 20px;" />
+    <img src="https://codertec.pe/img/logo-circular-2.png" alt="CODERTEC Logo" width="160" align="left" style="margin-right: 20px;" />
   </a>
   
   <p>
@@ -36,32 +36,39 @@
 
 ### 🤝 Our Clients / Nuestros Clientes
 
-<p align="left">
-  <a href="#" target="_blank" style="display: inline-block; text-align: center; margin-right: 30px;">
-    <img src="https://codertec.pe/img/clients/logo-renaceris.jpg" alt="CLÍNICA RENACERIS" height="70" /><br>
-    <strong><small>Clínica Renaceris</small></strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank" style="display: inline-block; text-align: center; margin-right: 30px;">
-    <img src="https://codertec.pe/img/clients/logo-agrocash.jpg" alt="AGROCASH" height="70" /><br>
-    <strong><small>Agrocash</small></strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank" style="display: inline-block; text-align: center; margin-right: 30px;">
-    <img src="https://codertec.pe/img/clients/logo-huanca.jpg" alt="CREDIPYME HUANCA" height="70" /><br>
-    <strong><small>Credipyme Huanca</small></strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank" style="display: inline-block; text-align: center;">
-    <img src="https://codertec.pe/img/clients/logo-peruvian.jpg" alt="CRÉDITOS PERUVIAN" height="70" /><br>
-    <strong><small>Créditos Peruvian</small></strong>
-  </a>
-</p>
+<table style="border: none; border-collapse: collapse; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" valign="bottom" style="border: none; padding: 10px;">
+      <a href="https://codertec.pe" target="_blank">
+        <img src="https://codertec.pe/img/clients/logo-renaceris.jpg" alt="CLÍNICA RENACERIS" height="70" />
+      </a><br>
+      <strong><small>Clínica Renaceris</small></strong>
+    </td>
+    <td align="center" valign="bottom" style="border: none; padding: 10px;">
+      <a href="https://codertec.pe" target="_blank">
+        <img src="https://codertec.pe/img/clients/logo-agrocash.jpg" alt="AGROCASH" height="70" />
+      </a><br>
+      <strong><small>Agrocash</small></strong>
+    </td>
+    <td align="center" valign="bottom" style="border: none; padding: 10px;">
+      <a href="https://codertec.pe" target="_blank">
+        <img src="https://codertec.pe/img/clients/logo-huanca.jpg" alt="CREDIPYME HUANCA" height="70" />
+      </a><br>
+      <strong><small>Credipyme Huanca</small></strong>
+    </td>
+    <td align="center" valign="bottom" style="border: none; padding: 10px;">
+      <a href="https://codertec.pe" target="_blank">
+        <img src="https://codertec.pe/img/clients/logo-peruvian.jpg" alt="CRÉDITOS PERUVIAN" height="70" />
+      </a><br>
+      <strong><small>Créditos Peruvian</small></strong>
+    </td>
+  </tr>
+</table>
 
-### 🌐 Connect with Us / Conéctate con nosotros
+### ⚡ Connect with Us / Conéctate con nosotros
 
 <p align="left">
-  <a href="https://codertec.pe" target="_blank"><img src="https://codertec.pe/img/logo-cuadrado.png" alt="Website" width="35" height="35"/></a>
+  <a href="https://codertec.pe" target="_blank"><img src="https://img.icons8.com/ios-filled/100/000000/internet--v1.png" alt="Website" width="35" height="35"/></a>
   <a href="https://facebook.com/codertec.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="35" height="35"/></a>
   <a href="https://instagram.com/codertec.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35"/></a>
    <a href="https://wa.me/+51981333854" target="_blank"><img src="https://static.whatsapp.net/rsrc.php/yd/r/PfkSLByWV8O.webp" alt="WhatsApp" width="35" height="35"/></a>
@@ -70,7 +77,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Software" width="40" height="40"/><br>
-  <strong>Custom software</strong><br>
-  <em>Software a medida</em>
+ <img src="https://codertec.pe/img/logo-redondeado.png" alt="Custom Software" width="45" height="45"/><br>
+  <strong>CoderTec, Custom software</strong><br>
+  <em>CoderTec, Software a medida</em>
 </p>
