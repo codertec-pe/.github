@@ -23,10 +23,10 @@
 
 ### 🤝 Our Clients / Nuestros Clientes
 <p align="left">
-<a href="https://renaceris.com/" target="_blank" title="Clínica Renaceris"><img src="https://codertec.pe/img/clients/logo-renaceris.jpg" alt="CLÍNICA RENACERIS" height="60" align="middle"/></a>&nbsp;&nbsp;
-<a href="https://app.agrocash.com.pe/" target="_blank" title="Agrocash"><img src="https://codertec.pe/img/clients/logo-agrocash.jpg" alt="AGROCASH" height="60" align="middle" /></a>&nbsp;&nbsp;
+<a href="https://renaceris.com/" target="_blank" title="Clínica Renaceris"><img src="https://codertec.pe/img/clients/logo-renaceris.jpg" alt="CLÍNICA RENACERIS" height="50" align="middle"/></a>&nbsp;&nbsp;
+<a href="https://app.agrocash.com.pe/" target="_blank" title="Agrocash"><img src="https://codertec.pe/img/clients/logo-agrocash.jpg" alt="AGROCASH" height="50" align="middle" /></a>&nbsp;&nbsp;
 <a href="https://crediapp.credipymehuanca.com.pe/" target="_blank" title="Credipyme Huanca"><img src="https://codertec.pe/img/clients/logo-huanca.png" alt="CREDIPYME HUANCA" height="35" align="middle" /></a>&nbsp;&nbsp;
-<a href="https://app.crediperuvian.com.pe/" target="_blank" title="Créditos Peruvian"><img src="https://codertec.pe/img/clients/logo-peruvian.jpg" alt="CRÉDITOS PERUVIAN" height="60" align="middle" /></a>
+<a href="https://app.crediperuvian.com.pe/" target="_blank" title="Créditos Peruvian"><img src="https://codertec.pe/img/clients/logo-peruvian.jpg" alt="CRÉDITOS PERUVIAN" height="50" align="middle" /></a>
 </p>
 
 ---
