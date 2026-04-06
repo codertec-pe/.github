@@ -1,27 +1,20 @@
-# Welcome to CODERTEC | Bienvenidos a CODERTEC 🚀
+# Welcome to CoderTec | Bienvenidos a CoderTec 
 
-<table border="0" cellpadding="20" cellspacing="0" align="center">
-  <tr>
-    <td valign="middle" align="center" width="200">
-      <a href="https://github.com/CODERTEC" target="_blank">
-        <img src="https://codertec.pe/img/logo-circular.jpg" alt="CODERTEC Logo" width="160" />
-      </a>
-    </td>
-    <td valign="middle">
-      <p align="left">
-        <strong><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="English" /> High-Quality Software Solutions from Perú</strong><br>
-        <strong><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pe.png" alt="Spanish" /> Soluciones de Software de Alta Calidad desde Perú</strong>
-      </p>
-      <hr>
-      <p align="left">
-        <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="English" /> <em>At CODERTEC, we develop custom software to take your business to the next level. 🚀 We are a technology organization dedicated to building scalable web and mobile solutions, focused on system architecture and high performance.</em>
-      </p>
-           <p align="left">
-        <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pe.png" alt="Spanish" /> <strong>En CODERTEC desarrollamos software a medida para llevar tu negocio al siguiente nivel. 🚀 Somos una organización tecnológica dedicada a la construcción de soluciones web y móviles escalables, enfocada en la arquitectura de sistemas y el alto rendimiento.</strong>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://github.com/CODERTEC" target="_blank">
+    <img src="https://codertec.pe/img/logo-circular.jpg" alt="CODERTEC Logo" width="160" align="left" style="margin-right: 20px;" />
+  </a>
+  
+  <p>
+    <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="English" /> 
+    <em>At CODERTEC, we develop custom software to take your business to the next level. 🚀 We are a technology organization dedicated to building scalable web and mobile solutions, focused on system architecture and high performance.</em>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pe.png" alt="Spanish" /> 
+    <strong>En CODERTEC desarrollamos software a medida para llevar tu negocio al siguiente nivel. 🚀 Somos una organización tecnológica dedicada a la construcción de soluciones web y móviles escalables, enfocada en la arquitectura de sistemas y el alto rendimiento.</strong>
+  </p>
+</div>
+
 
 
 
@@ -36,49 +29,34 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://inertiajs.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="inertia" width="40" height="40"/></a>
   <a href="https://primevue.org/" target="_blank"><img src="https://v3.primevue.org/favicon.ico" alt="primevue" width="40" height="40"/></a>
+    <a href="https://www.cpanel.net/" target="_blank"><img src="https://www.cpanel.net/wp-content/uploads/2025/07/cropped-android-chrome-512x512-1-192x192.png" alt="cpanel" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 🤝 Our Clients / Nuestros Clientes
 
-<table border="0" cellpadding="15" cellspacing="0" align="center">
-  <tr>
-   <td align="center" valign="top">
-      <a href="https://codertec.pe" target="_blank">
-        <img src="https://codertec.pe/img/clients/logo-renaceris.jpg" alt="CLÍNICA RENACERIS" height="60" />
-      </a><br>
-        <strong>
-    <small>Clínica <br> Renaceris</small>
-    </strong>
-    </td>
-    <td width="30"></td>
-    <td align="center" valign="top">
-      <a href="https://codertec.pe" target="_blank">
-        <img src="https://codertec.pe/img/clients/logo-agrocash.jpg" alt="AGROCASH" height="60" />
-      </a><br>
-      <strong><small>Agrocash</small></strong>
-    </td>
-    <td width="30"></td>
-    <td align="center" valign="top">
-      <a href="https://codertec.pe" target="_blank">
-        <img src="https://codertec.pe/img/clients/logo-huanca.jpg" alt="CREDIPYME HUANCA" height="60" />
-      </a><br>
-    <strong>
-    <small>Credipyme <br> Huanca</small>
-    </strong>
-    </td>
-    <td width="30"></td>
-    <td align="center" valign="top">
-      <a href="https://codertec.pe" target="_blank">
-        <img src="https://codertec.pe/img/clients/logo-peruvian.jpg" alt="CRÉDITOS PERUVIAN" height="60" />
-      </a><br>
-    <strong>
-    <small>Créditos <br> Peruvian</small>
-    </strong>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="#" target="_blank" style="display: inline-block; text-align: center; margin-right: 30px;">
+    <img src="https://codertec.pe/img/clients/logo-renaceris.jpg" alt="CLÍNICA RENACERIS" height="70" /><br>
+    <strong><small>Clínica Renaceris</small></strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" style="display: inline-block; text-align: center; margin-right: 30px;">
+    <img src="https://codertec.pe/img/clients/logo-agrocash.jpg" alt="AGROCASH" height="70" /><br>
+    <strong><small>Agrocash</small></strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" style="display: inline-block; text-align: center; margin-right: 30px;">
+    <img src="https://codertec.pe/img/clients/logo-huanca.jpg" alt="CREDIPYME HUANCA" height="70" /><br>
+    <strong><small>Credipyme Huanca</small></strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://codertec.pe/img/clients/logo-peruvian.jpg" alt="CRÉDITOS PERUVIAN" height="70" /><br>
+    <strong><small>Créditos Peruvian</small></strong>
+  </a>
+</p>
 
 ### 🌐 Connect with Us / Conéctate con nosotros
 
