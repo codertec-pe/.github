@@ -10,13 +10,13 @@
 
 ### 🛠️ Our Tech Stack / Tecnologías
 <p align="left">
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://inertiajs.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="inertia" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" /></a>
+<a href="https://inertiajs.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="inertia" width="40" /></a>
 <a href="https://primevue.org/" target="_blank"><img src="https://v3.primevue.org/favicon.ico" alt="primevue" width="40" height="40"/></a>
-<a href="https://www.cpanel.net/" target="_blank"><img src="https://www.cpanel.net/wp-content/uploads/2025/07/cropped-android-chrome-512x512-1-192x192.png" alt="cpanel" width="40" height="40"/></a>
+<a href="https://www.cpanel.net/" target="_blank"><img src="https://www.cpanel.net/wp-content/uploads/2025/07/cropped-android-chrome-512x512-1-192x192.png" alt="cpanel" width="40" /></a>
 </p>
 
 ---
@@ -33,10 +33,10 @@
 
 ### ⚡ Connect with Us / Conéctate con nosotros
 <p align="left">
-<a href="https://codertec.pe" target="_blank"><img src="https://img.icons8.com/ios-filled/100/38BDF8/internet--v1.png" alt="Website" width="35" height="35"/></a>
-<a href="https://facebook.com/codertec.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="35" height="35"/></a>
-<a href="https://instagram.com/codertec.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35"/></a>
-<a href="https://wa.me/+51981333854" target="_blank"><img src="https://static.whatsapp.net/rsrc.php/yd/r/PfkSLByWV8O.webp" alt="WhatsApp" width="35" height="35"/></a>
+<a href="https://codertec.pe" target="_blank"><img src="https://img.icons8.com/ios-filled/100/38BDF8/internet--v1.png" alt="Website" width="35" /></a>
+<a href="https://facebook.com/codertec.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="35" /></a>
+<a href="https://instagram.com/codertec.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" /></a>
+<a href="https://wa.me/+51981333854" target="_blank"><img src="https://static.whatsapp.net/rsrc.php/yd/r/PfkSLByWV8O.webp" alt="WhatsApp" width="35" /></a>
 </p>
 
 ---
