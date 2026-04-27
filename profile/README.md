@@ -15,7 +15,7 @@
 <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" /></a>
 <a href="https://inertiajs.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="inertia" width="40" /></a>
-<a href="https://primevue.org/" target="_blank"><img src="https://v3.primevue.org/favicon.ico" alt="primevue" width="40" height="40"/></a>
+<a href="https://primevue.org/" target="_blank"><img src="https://v3.primevue.org/favicon.ico" alt="primevue" width="40"/></a>
 <a href="https://www.cpanel.net/" target="_blank"><img src="https://www.cpanel.net/wp-content/uploads/2025/07/cropped-android-chrome-512x512-1-192x192.png" alt="cpanel" width="40" /></a>
 </p>
 
