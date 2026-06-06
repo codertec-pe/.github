@@ -36,7 +36,7 @@
 <a href="https://codertec.pe" target="_blank"><img src="https://img.icons8.com/ios-filled/100/38BDF8/internet--v1.png" alt="Website" width="35" /></a>
 <a href="https://facebook.com/codertec.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="35" /></a>
 <a href="https://instagram.com/codertec.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" /></a>
-<a href="https://wa.me/+51981333854" target="_blank"><img src="https://static.whatsapp.net/rsrc.php/yd/r/PfkSLByWV8O.webp" alt="WhatsApp" width="35" /></a>
+<a href="https://wa.me/+51934339144" target="_blank"><img src="https://static.whatsapp.net/rsrc.php/yd/r/PfkSLByWV8O.webp" alt="WhatsApp" width="35" /></a>
 </p>
 
 ---
